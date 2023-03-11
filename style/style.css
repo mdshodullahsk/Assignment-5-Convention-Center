@@ -16,7 +16,11 @@ body {
     background-size: cover;
     background-position: center;
     /* box-shadow: inset 0px 0px 10px rgba(0,0,0,0.9); */
-    box-shadow: inset 0px 0px 10px rgba(0,0,0,0.9);
+    box-shadow: inset 50px 50px 50px black;
+}
+/* Section 2 */
+.sec-two {
+    margin-top: 200px;
 }
 .toast {
     top: 150px;
